@@ -1,4 +1,4 @@
-## Olá, seja muito bem-vindo(a) ao meu universo! Fico feliz em tê-lo(a) aqui!
+## Olá, seja bem-vindo(a) ao meu universo! Fico feliz em tê-lo(a) aqui!
 
 <div>
   
