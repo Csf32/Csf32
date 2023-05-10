@@ -32,4 +32,3 @@
     
 </div>
   
-![Snake animation](https://github.com/Csf32/Csf32/blob/output/github-contribution-grid-snake.svg)
