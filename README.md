@@ -1,9 +1,9 @@
-## Olá, seja muito bem-vindo(a) ao meu universo! Fico feliz em tê-lo(a) aqui.!
+## Olá, seja muito bem-vindo(a) ao meu universo! Fico feliz em tê-lo(a) aqui!
 
 <div>
   
   <img src="https://github-readme-stats.vercel.app/api?username=Csf32&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" width= "380"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csf32&layout=compact&langs_count=16&theme=codeSTACKr"/>
+  <img align="right" height="200em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csf32&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
 <br>
 
