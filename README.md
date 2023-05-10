@@ -23,8 +23,8 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: c.souzaf@hotmail.com">
-      <img width="30" src="outlook.svg">
+    <a href = "mailto: kakaf112@gmail.com">
+      <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/caiquesf/">
       <img width="25" src="linkedin.svg">
