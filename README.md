@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo(a)! Fico feliz em tê-lo(a) aqui!
+## Olá, seja bem-vindo(a)!
 
 <div>
 
