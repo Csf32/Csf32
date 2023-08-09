@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo(a)!
+## Olá, meu nome é Caique. Seja bem-vindo (a) ao meu Github!
 
 <div>
 
@@ -7,8 +7,14 @@
   <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csf32&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div> -->
 <!--   &include_all_commits=true -->
- <img src="https://github-readme-stats.vercel.app/api?username=Csf32&show_icons=true&theme=codeSTACKr&count_public=true&count_public=true"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csf32&layout=compact&langs_count=16&theme=codeSTACKr"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Csf32&show_icons=true&theme=tokyonight&count_public=true&count_private=true"/>
+<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csf32&layout=compact&langs_count=16&theme=tokyonight"/>
+
+
+
+
+
 </div>
 <br>
 
