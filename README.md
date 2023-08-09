@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caique+Souza+Fonseca;I'm+26+years+old;I+from+Brasil,+BA;I+study+systems+development+at+Senac;Be+Welcome+to+my+Github!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Csf32&show_icons=true&count_private=true&count_public=true&hide_border=true&title_color=00bfbf&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Caique Souza Fonseca github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csf32&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Csf32&show_icons=true&count_private=true&count_public=true&hide_border=true&title_color=48D1CC&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caique Souza Fonseca github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csf32&layout=compact&hide_border=true&title_color=48D1CC&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <!--![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Csf32&theme=gotham)-->
